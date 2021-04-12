@@ -1,0 +1,9 @@
+Pascal/
+testCurl/
+*.o
+score
+Score
+pascal/
+.vs/
+makefile.save
+a.out 
